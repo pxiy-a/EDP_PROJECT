@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430778988171",
+    "project_id": "edp-project-bf5fa",
+    "storage_bucket": "edp-project-bf5fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430778988171:android:6e5af0466b75146f3e468e",
+        "android_client_info": {
+          "package_name": "com.vedansh.edp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-ejFju43K2WyZG6JzK_mJZujyWxNMFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
